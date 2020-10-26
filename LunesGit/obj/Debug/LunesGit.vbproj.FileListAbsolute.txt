@@ -1,0 +1,12 @@
+C:\Users\IN2DAM\Desktop\LunesGit\bin\Debug\LunesGit.exe.config
+C:\Users\IN2DAM\Desktop\LunesGit\bin\Debug\LunesGit.exe
+C:\Users\IN2DAM\Desktop\LunesGit\bin\Debug\LunesGit.pdb
+C:\Users\IN2DAM\Desktop\LunesGit\bin\Debug\LunesGit.xml
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.vbprojAssemblyReference.cache
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.Form1.resources
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.Resources.resources
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.exe
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.xml
+C:\Users\IN2DAM\Desktop\LunesGit\obj\Debug\LunesGit.pdb
